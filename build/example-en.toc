@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Objetivos}{2}{0}{1}
+\beamer@sectionintoc {2}{Componentes Indispensables (Hardware)}{4}{0}{2}
+\beamer@sectionintoc {3}{Implementación de Encoder.}{6}{0}{3}
+\beamer@sectionintoc {4}{Implementación de motor a paso.}{9}{0}{4}
+\beamer@sectionintoc {5}{Fabricación de módulo controlador.}{11}{0}{5}
+\beamer@sectionintoc {6}{Integración y funcionamiento.}{13}{0}{6}
+\beamer@sectionintoc {7}{Referencias Bibliográficas}{16}{0}{7}
