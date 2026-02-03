@@ -1,3 +1,9 @@
 presentacion_pasantias.pdf
 quiz03_C1.zip
 Pasantias-Control-de-un-Motor-de-Paso-mediante-un-Controlador-Comercial.pdf
+Control_de_Motor_Paso_a_Paso_Sistema_Embebido.pdf
+
+# Ignorar todo el contenido de la carpeta build
+build/*
+# Pero no ignores el example-en.pdf
+!build/example-en.pdf
