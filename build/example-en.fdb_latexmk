@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/example-en"] 1767044855.80257 "build/example-en.bcf" "build/example-en.bbl" "build/example-en" 1767281592.75287 0
-  "build/example-en.bcf" 1767281580 107941 112a02918667b8c85056fee276c6a352 "pdflatex"
+["biber build/example-en"] 1770079604.58595 "build/example-en.bcf" "build/example-en.bbl" "build/example-en" 1770079694.52709 0
+  "build/example-en.bcf" 1770079692 107941 112a02918667b8c85056fee276c6a352 "pdflatex"
   "references.bib" 1767044851 2158 85dcb3e6295fa390f713a1ff37feb3a6 ""
   (generated)
   "build/example-en.bbl"
   "build/example-en.blg"
   (rewritten before read)
-["pdflatex"] 1767281509.37813 "c:/Users/rsant/Documents/uni/Pasantias-2025/informe/presentacion/example-en.tex" "build/example-en.pdf" "example-en" 1767281592.759 0
+["pdflatex"] 1770079667.0523 "c:/Users/rsant/Documents/uni/Pasantias-2025/informe/presentacion/example-en.tex" "build/example-en.pdf" "example-en" 1770079694.53066 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcss1000.tfm" 993062538 1460 1ddd8a8c398c62fda962364496bd93ce ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -253,14 +253,14 @@
   "C:/Users/rsant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcss1000.pk" 1767035505 10628 8f2b5e3ad9e9c9f54c7785dca4befbac ""
   "C:/Users/rsant/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1766949357 13323462 6696262b6d56a094cb90b18161cdae09 ""
   "ITMOtheme.sty" 1767281352 4515 05dbb2b9996e1c534afbf6b25de72612 ""
-  "build/example-en.aux" 1767281580 6243 7a6eb23409537f4f578c92f7a333e8b2 "pdflatex"
-  "build/example-en.bbl" 1767044868 5326 2dffd5331278a227e7adb106a257f98f "biber build/example-en"
-  "build/example-en.nav" 1767281580 3338 b337f9334ec2e89cadfc49d246cd8f93 "pdflatex"
-  "build/example-en.out" 1767281580 1425 464c1583a57fbbe076a04be417cf857a "pdflatex"
-  "build/example-en.run.xml" 1767281580 2444 c490ea256fda654b1fbc20a5858b6f03 "pdflatex"
-  "build/example-en.toc" 1767281580 483 c59bfd0de05c1bbbab5352c148d05a65 "pdflatex"
-  "c:/Users/rsant/Documents/uni/Pasantias-2025/informe/presentacion/example-en.tex" 1767281497 10763 bd0eff2551cbddfc31ad5060bbd98951 ""
-  "example-en.tex" 1767281497 10763 bd0eff2551cbddfc31ad5060bbd98951 ""
+  "build/example-en.aux" 1770079692 6243 dc6ecd522f20bd9a88261654fcf21e05 "pdflatex"
+  "build/example-en.bbl" 1770079614 5305 a8cfca4d146cd61e277ec21028ada299 "biber build/example-en"
+  "build/example-en.nav" 1770079692 3338 b337f9334ec2e89cadfc49d246cd8f93 "pdflatex"
+  "build/example-en.out" 1770079692 1425 464c1583a57fbbe076a04be417cf857a "pdflatex"
+  "build/example-en.run.xml" 1770079692 2444 c490ea256fda654b1fbc20a5858b6f03 "pdflatex"
+  "build/example-en.toc" 1770079692 483 c59bfd0de05c1bbbab5352c148d05a65 "pdflatex"
+  "c:/Users/rsant/Documents/uni/Pasantias-2025/informe/presentacion/example-en.tex" 1770079512 2032 ac1b8ca941b99539565413c30cc0c359 ""
+  "example-en.tex" 1770079512 2032 ac1b8ca941b99539565413c30cc0c359 ""
   "fig/convertidor-dc-dc.jpg" 1761603646 31892 0468936611c849083bc455bcc5140665 ""
   "fig/diagrama_conexion_control_bb.png" 1761603646 533978 6bfb0e84b28bf830eb02377d05e23ca1 ""
   "fig/diagrama_conexion_encoder_bb.png" 1761603646 100679 a596740703a9389cf4750c884276f56b ""
@@ -281,6 +281,13 @@
   "fig/stepper-motor.jpg" 1761603646 58381 5b0292729137220d9ad177262aafbd4c ""
   "itmo/fondoelectro.jpg" 1763844529 140424 17fa07d4b21d0e5d0780562b813d28db ""
   "itmo/ucvlogo.png" 1766945584 227269 a595ceb8971a0c43c6d87fc66a1b4307 ""
+  "tex/componentes.tex" 1770078615 1576 869a81b61783905da84808c4a3bb3a2d ""
+  "tex/encoder.tex" 1770078652 1577 df75ad23e323384817c446f3fe32a7c4 ""
+  "tex/integracion_funcionamiento.tex" 1770078947 1471 4021463b68faf9a5a6ef47484c91bd36 ""
+  "tex/modulo.tex" 1770078855 1325 dce1d70095388281c152f1a00c9fc539 ""
+  "tex/motor.tex" 1770078714 1009 432d8aaca6f594ce2833ac984133fe3b ""
+  "tex/post.tex" 1770079566 270 94effeaa1959de0c8aed88b08c4b79fd ""
+  "tex/pre.tex" 1770078550 1804 c46605392a9164f2ef8ed8bb606304da ""
   (generated)
   "build/example-en.aux"
   "build/example-en.bcf"

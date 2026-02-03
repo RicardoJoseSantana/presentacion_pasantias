@@ -467,6 +467,9 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT .\tex\pre.tex
+INPUT .\tex\pre.tex
+INPUT tex\pre.tex
 INPUT .\itmo\fondoelectro.jpg
 INPUT .\itmo\fondoelectro.jpg
 INPUT .\itmo\fondoelectro.jpg
@@ -502,6 +505,9 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
+INPUT .\tex\componentes.tex
+INPUT .\tex\componentes.tex
+INPUT tex\componentes.tex
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
@@ -547,6 +553,9 @@ INPUT .\fig\pantalla-lcd.jpg
 INPUT .\fig\pantalla-lcd.jpg
 INPUT .\fig\pantalla-lcd.jpg
 INPUT .\fig\pantalla-lcd.jpg
+INPUT .\tex\encoder.tex
+INPUT .\tex\encoder.tex
+INPUT tex\encoder.tex
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
@@ -579,6 +588,9 @@ INPUT .\fig\encoder-code.jpg
 INPUT .\fig\encoder-code.jpg
 INPUT .\fig\encoder-code.jpg
 INPUT .\fig\encoder-code.jpg
+INPUT .\tex\motor.tex
+INPUT .\tex\motor.tex
+INPUT tex\motor.tex
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
@@ -589,6 +601,9 @@ INPUT .\fig\motor-esp.jpg
 INPUT .\fig\motor-esp.jpg
 INPUT .\fig\motor-esp.jpg
 INPUT .\fig\motor-esp.jpg
+INPUT .\tex\modulo.tex
+INPUT .\tex\modulo.tex
+INPUT tex\modulo.tex
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
@@ -620,6 +635,9 @@ INPUT .\fig\placaF.jpg
 INPUT .\fig\placaF.jpg
 INPUT .\fig\placaF.jpg
 INPUT .\fig\placaF.jpg
+INPUT .\tex\integracion_funcionamiento.tex
+INPUT .\tex\integracion_funcionamiento.tex
+INPUT tex\integracion_funcionamiento.tex
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
@@ -644,6 +662,9 @@ INPUT .\fig\diagrama_conexion_control_bb.png
 INPUT .\fig\diagrama_conexion_control_bb.png
 INPUT .\fig\diagrama_conexion_control_bb.png
 INPUT .\fig\diagrama_conexion_control_bb.png
+INPUT .\tex\post.tex
+INPUT .\tex\post.tex
+INPUT tex\post.tex
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc
 INPUT c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.toc

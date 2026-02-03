@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.28)  1 JAN 2026 11:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.28)  2 FEB 2026 20:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1098,25 +1098,25 @@ Overfull \hbox (2.89316pt too wide) in paragraph at lines 33--33
 [][][][][][][][][][][][][][][]  
  []
 
-
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 77--77
+(tex/pre.tex
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 18--18
 [][][][][][][][][][][][][][][]  
  []
 
 <itmo/fondoelectro.jpg, id=44, 738.76pt x 1312.905pt>
 File: itmo/fondoelectro.jpg Graphic file (type jpg)
 <use itmo/fondoelectro.jpg>
-Package pdftex.def Info: itmo/fondoelectro.jpg  used on input line 77.
+Package pdftex.def Info: itmo/fondoelectro.jpg  used on input line 18.
 (pdftex.def)             Requested size: 455.24408pt x 809.04448pt.
 <itmo/ucvlogo.png, id=45, 284.7438pt x 284.7438pt>
 File: itmo/ucvlogo.png Graphic file (type png)
 <use itmo/ucvlogo.png>
-Package pdftex.def Info: itmo/ucvlogo.png  used on input line 77.
+Package pdftex.def Info: itmo/ucvlogo.png  used on input line 18.
 (pdftex.def)             Requested size: 85.4238pt x 85.4238pt.
 [1
 
 {C:/Users/rsant/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./itmo/fondoelectro.jpg> <./itmo/ucvlogo.png>]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 88--88
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 29--29
 [][][][][][][][][][][][][][][]  
  []
 
@@ -1127,12 +1127,12 @@ LaTeX Info: Redefining \% on input line 1.
 ) [2
 
 ]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 105--105
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 46--46
 [][][][][][][][][][][][][][][]  
  []
 
 
-Overfull \vbox (6.51326pt too high) detected at line 105
+Overfull \vbox (6.51326pt too high) detected at line 46
  []
 
 
@@ -1142,8 +1142,8 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 
 [3
 
-]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 107--107
+]) (tex/componentes.tex
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 1--1
 [][][][][][][][][][][][][][][]  
  []
 
@@ -1154,42 +1154,42 @@ LaTeX Info: Redefining \% on input line 1.
 ) [4
 
 ]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 148--148
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 42--42
 [][][][][][][][][][][][][][][]  
  []
 
 <fig/esp32.jpg, id=100, 501.875pt x 364.36125pt>
 File: fig/esp32.jpg Graphic file (type jpg)
 <use fig/esp32.jpg>
-Package pdftex.def Info: fig/esp32.jpg  used on input line 148.
+Package pdftex.def Info: fig/esp32.jpg  used on input line 42.
 (pdftex.def)             Requested size: 78.37947pt x 56.9055pt.
 <fig/convertidor-dc-dc.jpg, id=101, 501.875pt x 390.45876pt>
 File: fig/convertidor-dc-dc.jpg Graphic file (type jpg)
 <use fig/convertidor-dc-dc.jpg>
-Package pdftex.def Info: fig/convertidor-dc-dc.jpg  used on input line 148.
+Package pdftex.def Info: fig/convertidor-dc-dc.jpg  used on input line 42.
 (pdftex.def)             Requested size: 73.14142pt x 56.9055pt.
 <fig/stepper-motor.jpg, id=102, 803.0pt x 803.0pt>
 File: fig/stepper-motor.jpg Graphic file (type jpg)
 <use fig/stepper-motor.jpg>
-Package pdftex.def Info: fig/stepper-motor.jpg  used on input line 148.
+Package pdftex.def Info: fig/stepper-motor.jpg  used on input line 42.
 (pdftex.def)             Requested size: 56.90189pt x 56.9055pt.
 <fig/driver-motor.jpg, id=103, 1003.75pt x 710.655pt>
 File: fig/driver-motor.jpg Graphic file (type jpg)
 <use fig/driver-motor.jpg>
-Package pdftex.def Info: fig/driver-motor.jpg  used on input line 148.
+Package pdftex.def Info: fig/driver-motor.jpg  used on input line 42.
 (pdftex.def)             Requested size: 80.3629pt x 56.9055pt.
 <fig/encoder.jpg, id=104, 667.49374pt x 667.49374pt>
 File: fig/encoder.jpg Graphic file (type jpg)
 <use fig/encoder.jpg>
-Package pdftex.def Info: fig/encoder.jpg  used on input line 148.
+Package pdftex.def Info: fig/encoder.jpg  used on input line 42.
 (pdftex.def)             Requested size: 56.90427pt x 56.9055pt.
 <fig/pantalla-lcd.jpg, id=105, 770.88pt x 578.16pt>
 File: fig/pantalla-lcd.jpg Graphic file (type jpg)
 <use fig/pantalla-lcd.jpg>
-Package pdftex.def Info: fig/pantalla-lcd.jpg  used on input line 148.
+Package pdftex.def Info: fig/pantalla-lcd.jpg  used on input line 42.
 (pdftex.def)             Requested size: 75.86919pt x 56.9055pt.
 
-Overfull \vbox (13.20847pt too high) detected at line 148
+Overfull \vbox (13.20847pt too high) detected at line 42
  []
 
 
@@ -1199,8 +1199,8 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 
 [5
 
- <./fig/esp32.jpg> <./fig/convertidor-dc-dc.jpg> <./fig/stepper-motor.jpg> <./fig/driver-motor.jpg> <./fig/encoder.jpg> <./fig/pantalla-lcd.jpg>]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 150--150
+ <./fig/esp32.jpg> <./fig/convertidor-dc-dc.jpg> <./fig/stepper-motor.jpg> <./fig/driver-motor.jpg> <./fig/encoder.jpg> <./fig/pantalla-lcd.jpg>]) (tex/encoder.tex
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 1--1
 [][][][][][][][][][][][][][][]  
  []
 
@@ -1211,19 +1211,19 @@ LaTeX Info: Redefining \% on input line 1.
 ) [6
 
 ]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 169--169
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 20--20
 [][][][][][][][][][][][][][][]  
  []
 
 <fig/encoder-prueba.jpg, id=125, 2176.13pt x 1477.52pt>
 File: fig/encoder-prueba.jpg Graphic file (type jpg)
 <use fig/encoder-prueba.jpg>
-Package pdftex.def Info: fig/encoder-prueba.jpg  used on input line 169.
+Package pdftex.def Info: fig/encoder-prueba.jpg  used on input line 20.
 (pdftex.def)             Requested size: 199.1693pt x 135.22557pt.
 <fig/encoder-senal.jpg, id=126, 803.0pt x 481.8pt>
 File: fig/encoder-senal.jpg Graphic file (type jpg)
 <use fig/encoder-senal.jpg>
-Package pdftex.def Info: fig/encoder-senal.jpg  used on input line 169.
+Package pdftex.def Info: fig/encoder-senal.jpg  used on input line 20.
 (pdftex.def)             Requested size: 199.1693pt x 119.50133pt.
 
 Overfull \hbox (2.89316pt too wide) has occurred while \output is active
@@ -1233,22 +1233,22 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 [7
 
  <./fig/encoder-prueba.jpg> <./fig/encoder-senal.jpg>]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 189--189
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 40--40
 [][][][][][][][][][][][][][][]  
  []
 
 <fig/encoder-esp.jpg, id=136, 1843.88875pt x 1382.16376pt>
 File: fig/encoder-esp.jpg Graphic file (type jpg)
 <use fig/encoder-esp.jpg>
-Package pdftex.def Info: fig/encoder-esp.jpg  used on input line 189.
+Package pdftex.def Info: fig/encoder-esp.jpg  used on input line 40.
 (pdftex.def)             Requested size: 199.1693pt x 149.27568pt.
 <fig/encoder-code.jpg, id=137, 852.18375pt x 439.6425pt>
 File: fig/encoder-code.jpg Graphic file (type jpg)
 <use fig/encoder-code.jpg>
-Package pdftex.def Info: fig/encoder-code.jpg  used on input line 189.
+Package pdftex.def Info: fig/encoder-code.jpg  used on input line 40.
 (pdftex.def)             Requested size: 199.1693pt x 102.75249pt.
 
-Overfull \vbox (3.67314pt too high) detected at line 189
+Overfull \vbox (3.67314pt too high) detected at line 40
  []
 
 
@@ -1258,8 +1258,8 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 
 [8
 
- <./fig/encoder-esp.jpg> <./fig/encoder-code.jpg>]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 191--191
+ <./fig/encoder-esp.jpg> <./fig/encoder-code.jpg>]) (tex/motor.tex
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 1--1
 [][][][][][][][][][][][][][][]  
  []
 
@@ -1270,17 +1270,17 @@ LaTeX Info: Redefining \% on input line 1.
 ) [9
 
 ]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 216--216
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 26--26
 [][][][][][][][][][][][][][][]  
  []
 
 <fig/motor-esp.jpg, id=157, 2067.725pt x 1714.405pt>
 File: fig/motor-esp.jpg Graphic file (type jpg)
 <use fig/motor-esp.jpg>
-Package pdftex.def Info: fig/motor-esp.jpg  used on input line 216.
+Package pdftex.def Info: fig/motor-esp.jpg  used on input line 26.
 (pdftex.def)             Requested size: 199.1693pt x 165.1199pt.
 
-Overfull \vbox (7.51736pt too high) detected at line 216
+Overfull \vbox (7.51736pt too high) detected at line 26
  []
 
 
@@ -1290,8 +1290,8 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 
 [10
 
- <./fig/motor-esp.jpg>]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 218--218
+ <./fig/motor-esp.jpg>]) (tex/modulo.tex
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 1--1
 [][][][][][][][][][][][][][][]  
  []
 
@@ -1302,32 +1302,32 @@ LaTeX Info: Redefining \% on input line 1.
 ) [11
 
 ]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 251--251
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 34--34
 [][][][][][][][][][][][][][][]  
  []
 
 <fig/kicad-esquematico.png, id=182, 673.01437pt x 385.94188pt>
 File: fig/kicad-esquematico.png Graphic file (type png)
 <use fig/kicad-esquematico.png>
-Package pdftex.def Info: fig/kicad-esquematico.png  used on input line 251.
+Package pdftex.def Info: fig/kicad-esquematico.png  used on input line 34.
 (pdftex.def)             Requested size: 99.2328pt x 56.9055pt.
 <fig/kicad-placa.jpg, id=183, 289.3209pt x 190.0701pt>
 File: fig/kicad-placa.jpg Graphic file (type jpg)
 <use fig/kicad-placa.jpg>
-Package pdftex.def Info: fig/kicad-placa.jpg  used on input line 251.
+Package pdftex.def Info: fig/kicad-placa.jpg  used on input line 34.
 (pdftex.def)             Requested size: 86.62035pt x 56.9055pt.
 <fig/placaB.jpg, id=184, 1284.8pt x 964.60374pt>
 File: fig/placaB.jpg Graphic file (type jpg)
 <use fig/placaB.jpg>
-Package pdftex.def Info: fig/placaB.jpg  used on input line 251.
+Package pdftex.def Info: fig/placaB.jpg  used on input line 34.
 (pdftex.def)             Requested size: 75.79077pt x 56.9055pt.
 <fig/placaF.jpg, id=185, 1284.8pt x 964.60374pt>
 File: fig/placaF.jpg Graphic file (type jpg)
 <use fig/placaF.jpg>
-Package pdftex.def Info: fig/placaF.jpg  used on input line 251.
+Package pdftex.def Info: fig/placaF.jpg  used on input line 34.
 (pdftex.def)             Requested size: 75.79077pt x 56.9055pt.
 
-Overfull \vbox (3.8882pt too high) detected at line 251
+Overfull \vbox (3.8882pt too high) detected at line 34
  []
 
 
@@ -1337,8 +1337,8 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 
 [12
 
- <./fig/kicad-esquematico.png> <./fig/kicad-placa.jpg> <./fig/placaB.jpg> <./fig/placaF.jpg>]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 253--253
+ <./fig/kicad-esquematico.png> <./fig/kicad-placa.jpg> <./fig/placaB.jpg> <./fig/placaF.jpg>]) (tex/integracion_funcionamiento.tex
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 1--1
 [][][][][][][][][][][][][][][]  
  []
 
@@ -1349,22 +1349,22 @@ LaTeX Info: Redefining \% on input line 1.
 ) [13
 
 ]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 280--280
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 28--28
 [][][][][][][][][][][][][][][]  
  []
 
 <fig/diagrama_conexion_encoder_bb.png, id=208, 511.77867pt x 245.718pt>
 File: fig/diagrama_conexion_encoder_bb.png Graphic file (type png)
 <use fig/diagrama_conexion_encoder_bb.png>
-Package pdftex.def Info: fig/diagrama_conexion_encoder_bb.png  used on input line 280.
+Package pdftex.def Info: fig/diagrama_conexion_encoder_bb.png  used on input line 28.
 (pdftex.def)             Requested size: 199.1693pt x 95.62717pt.
 <fig/diagrama_conexion_motor_bb.png, id=209, 883.3pt x 464.66933pt>
 File: fig/diagrama_conexion_motor_bb.png Graphic file (type png)
 <use fig/diagrama_conexion_motor_bb.png>
-Package pdftex.def Info: fig/diagrama_conexion_motor_bb.png  used on input line 280.
+Package pdftex.def Info: fig/diagrama_conexion_motor_bb.png  used on input line 28.
 (pdftex.def)             Requested size: 199.1693pt x 104.77296pt.
 
-Overfull \vbox (10.78873pt too high) detected at line 280
+Overfull \vbox (10.78873pt too high) detected at line 28
  []
 
 
@@ -1375,14 +1375,14 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 [14
 
  <./fig/diagrama_conexion_encoder_bb.png> <./fig/diagrama_conexion_motor_bb.png>]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 290--290
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 38--38
 [][][][][][][][][][][][][][][]  
  []
 
 <fig/diagrama_conexion_control_bb.png, id=220, 1282.92633pt x 687.368pt>
 File: fig/diagrama_conexion_control_bb.png Graphic file (type png)
 <use fig/diagrama_conexion_control_bb.png>
-Package pdftex.def Info: fig/diagrama_conexion_control_bb.png  used on input line 290.
+Package pdftex.def Info: fig/diagrama_conexion_control_bb.png  used on input line 38.
 (pdftex.def)             Requested size: 358.50229pt x 192.07365pt.
 
 Overfull \hbox (2.89316pt too wide) has occurred while \output is active
@@ -1391,8 +1391,8 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 
 [15
 
- <./fig/diagrama_conexion_control_bb.png>]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 292--292
+ <./fig/diagrama_conexion_control_bb.png>]) (tex/post.tex
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 1--1
 [][][][][][][][][][][][][][][]  
  []
 
@@ -1403,7 +1403,7 @@ LaTeX Info: Redefining \% on input line 1.
 ) [16
 
 ]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 297--297
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 6--6
 [][][][][][][][][][][][][][][]  
  []
 
@@ -1415,17 +1415,17 @@ Overfull \hbox (2.89316pt too wide) has occurred while \output is active
 [17
 
 ]
-Overfull \hbox (2.89316pt too wide) in paragraph at lines 305--305
+Overfull \hbox (2.89316pt too wide) in paragraph at lines 14--14
 [][][][][][][][][][][][][][][]  
  []
 
 File: itmo/fondoelectro.jpg Graphic file (type jpg)
 <use itmo/fondoelectro.jpg>
-Package pdftex.def Info: itmo/fondoelectro.jpg  used on input line 305.
+Package pdftex.def Info: itmo/fondoelectro.jpg  used on input line 14.
 (pdftex.def)             Requested size: 455.24408pt x 809.04448pt.
 [18
 
-]
+])
 \tf@nav=\write7
 \openout7 = `example-en.nav'.
 
@@ -1451,15 +1451,15 @@ Package logreq Info: Writing requests to 'example-en.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35822 strings out of 467870
- 706250 string characters out of 5428421
+ 35865 strings out of 467870
+ 707602 string characters out of 5428421
  1520809 words of memory out of 5000000
- 64039 multiletter control sequences out of 15000+600000
+ 64060 multiletter control sequences out of 15000+600000
  640424 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,764b,2067s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\rsant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.pdf (18 pages, 6634829 bytes).
+Output written on c:\Users\rsant\Documents\uni\Pasantias-2025\informe\presentacion\build\example-en.pdf (18 pages, 6634839 bytes).
 PDF statistics:
  329 PDF objects out of 1000 (max. 8388607)
  51 named destinations out of 1000 (max. 500000)

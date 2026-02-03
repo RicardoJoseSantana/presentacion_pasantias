@@ -1,0 +1,46 @@
+\begin{frame}[plain]
+	\itmofondo{itmo/fondoelectro.jpg}{
+    \vfill
+        República Bolivariana de Venezuela \par Universidad Central de Venezuela \par Facultad de Ingeniería\par Escuela de Eléctrica \par Coordinación de Pasantías y Servicio Comunitario.
+	\vfill
+		\includegraphics[scale=.3]{itmo/ucvlogo.png}
+	\vfill
+		\usebeamerfont{title}{  \inserttitle\par}
+    \vfill
+        %----subtitulo-----
+	%\vfill
+		\insertauthor ;CI:29571461\par
+	\vfill
+        Tutor: Ing. Herrera, Alejandro \par
+    \vfill
+		\insertplace  \;  \insertdate
+}
+\end{frame}
+
+\AtBeginSection[]
+{
+    \begin{frame}[plain]
+        \frametitle{Contenido}
+        \Large
+        \tableofcontents[currentsection]
+    \end{frame}
+}
+
+\section{Objetivos}
+
+\begin{frame}{Objetivos}
+    \begin{block}{Objetivo general.}
+        \begin{itemize}
+            \item Desarrollar una aplicación embebida que controle un motor de paso mediante un controlador comercial, en respuesta a la variación del ángulo de un encoder, mostrando los parámetros clave en una pantalla LCD mediante comunicación I2C o serial.
+        \end{itemize}
+    \end{block}
+    \begin{block}{Objetivos específicos.}
+        \begin{itemize}
+            \item Estudiar los componentes seleccionados: microcontrolador, controlador del motor, motor de paso, encoder y pantalla LCD.
+            \item Implementar la lectura del encoder y su conversión a señales de control para el motor de paso.
+            \item Configurar la comunicación entre el microcontrolador y el controlador del motor.
+            \item Desarrollar la interfaz de visualización en la pantalla LCD (I2C o serial).
+            \item Integración, validación y documentación del sistema.
+        \end{itemize}
+    \end{block}
+\end{frame}
